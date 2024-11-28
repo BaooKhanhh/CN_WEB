@@ -10,7 +10,7 @@
                         <a href="#">TRANG CHỦ</a>
                     </li>
                     <li>
-                        <a href="#">QUẢN LÝ NHÂN VIÊN</a>
+                        <a href="#">Administration</a>
                     </li>
                 </ul>
             </div>

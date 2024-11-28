@@ -1,6 +1,6 @@
-<div class="section-one">
+<div class="section-one" style="background-color: yellowgreen;">
     <div class="inner-title">
-        <h1>QUẢN LÝ NHÂN VIÊN</h1>
+        <h1>Administration</h1>
     </div>
     <div class="button">
         <div class="btn-2">

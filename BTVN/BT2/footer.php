@@ -13,6 +13,6 @@
 
     <footer>
         <div class="container-footer">
-            <h1>WEB CRUD</h1>
+            <h1>TLU Music Garden</h1>
         </div>
     </footer>

@@ -1,5 +1,51 @@
 <!DOCTYPE html>
 <html lang="vi">
+    <style>
+        body {
+            background-color: #f4f8fb;
+            font-family: 'Arial', sans-serif;
+        }
+        .container {
+            max-width: 800px;
+            margin-top: 50px;
+            padding: 20px;
+            background-color: #ffffff;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        h1 {
+            color: #007bff;
+        }
+        .card {
+            border-radius: 8px;
+        }
+        .card-header {
+            background-color: #007bff;
+            color: #ffffff;
+            font-weight: bold;
+        }
+        .card-body {
+            background-color: #f9f9f9;
+        }
+        .form-check-label {
+            font-size: 16px;
+        }
+        .btn-primary {
+            /* width: 100%; */
+            padding: 12px;
+            font-size: 16px;
+            background-color: #007bff;
+            border-color: #007bff;
+            border-radius: 8px;
+        }
+        .btn-primary:hover {
+            background-color: #0056b3;
+            border-color: #004085;
+        }
+        .form-check-input {
+            margin-right: 10px;
+        }
+    </style>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
