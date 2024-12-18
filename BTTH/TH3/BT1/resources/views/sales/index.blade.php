@@ -37,5 +37,5 @@
         </tbody>
     </table>
     <!-- Pagination links -->
-    {{ $sales->links() }}
+    {{ $sales->links('pagination::bootstrap-4') }}
 @endsection
