@@ -15,7 +15,7 @@
     <div class="container mt-5">
         <div class="table-responsive">
             <div class="mb-3 d-flex justify-content-between align-items-center">
-                <h2>Manage Student Projects</h2>
+                <h2>Quản lý Đồ án sinh viên</h2>
                 <a href="{{ route('Issues.create') }}" class="btn btn-primary">
                     <i class="fa fa-plus"></i> Add New
                 </a>
