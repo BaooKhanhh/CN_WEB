@@ -96,7 +96,6 @@ nhật thành công.');
     {
         $Issue = Issues::find($id);
         $Issue->delete();
-        return redirect()->route('Issues.index')->with('success', 'Sản
-phẩm đã được xóa.');
+        return redirect()->route('Issues.index')->with('success', 'Xoá thành công');
     }
 }
